@@ -1,6 +1,9 @@
 ## Hey there 👋
 
-I am João Victor, an enthusiast currently studyng front-end.
+Sou Desenvolvedor Front-end, atualmente cursando Análise e Desenvolvimento de Sistemas.
 
-Immersed in programming, I bring creativity and innovation to every line of code. 
-Proficient in React, Angular, TypeScript, JavaScript, HTML and CSS, I'm expanding my skills with Next.js to advance in web development.
+Meu tempo é dividido entre minhas responsabilidades como membro do time dedicado ao projeto voluntário GoLembrar e minha busca constante por aprimorar minhas habilidades em HTML, CSS, JavaScript, TypeScript, React, Angular, Git e GitHub.
+
+O que me motiva? A oportunidade de usar minha criatividade e habilidades técnicas para construir interfaces intuitivas e responsivas que tornam a vida digital mais fácil e agradável para todos.
+
+Sempre busco novos desafios que me permitam crescer pessoal e profissionalmente. Adoro colaborar com outras mentes criativas e estou sempre aberto a aprender algo novo.
