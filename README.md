@@ -80,8 +80,7 @@ React, Angular, TypeScript, Node.js e APIs REST.
 
 ## 🎓 Formação
 
-**Análise e Desenvolvimento de Sistemas**  
-Em andamento.
+**Análise e Desenvolvimento de Sistemas | UNINTER | 2024-2026**
 
 ---
 
