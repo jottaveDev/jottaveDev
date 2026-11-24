@@ -1,9 +1,9 @@
-## Hey there 👋
+## João Victor Alves
 
-Sou Desenvolvedor Front-end, atualmente cursando Análise e Desenvolvimento de Sistemas.
+## Frontend Developer | React · TypeScript · Next.js
 
-Meu tempo é dividido entre minhas responsabilidades como membro do time dedicado ao projeto voluntário GoLembrar e minha busca constante por aprimorar minhas habilidades em HTML, CSS, JavaScript, TypeScript, React, Angular, NodeJS, Express, Git e GitHub.
+Desenvolvedor web com experiência prática no desenvolvimento e manutenção de aplicações, construção de interfaces responsivas e integração com APIs REST.
 
-O que me motiva? A oportunidade de usar minha criatividade e habilidades técnicas para construir interfaces intuitivas e responsivas que tornam a vida digital mais fácil e agradável para todos.
+Tenho experiência trabalhando com Angular, React, TypeScript e Node.js, além de conhecimentos em PostgreSQL, Express e Docker.
 
-Sempre busco novos desafios que me permitam crescer pessoal e profissionalmente. Adoro colaborar com outras mentes criativas e estou sempre aberto a aprender algo novo.
+Atualmente, curso Análise e Desenvolvimento de Sistemas e busco oportunidades para contribuir com equipes de desenvolvimento, construir soluções de qualidade e evoluir tecnicamente.
